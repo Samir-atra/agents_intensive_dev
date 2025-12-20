@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.14](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/downloads/)
 [![ADK](https://img.shields.io/badge/Google-ADK-4285F4?logo=google)](https://google.github.io/adk-docs/)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=samiratra95@gmail.com&item_name=Code+Broker+Donation&currency_code=USD)
 
 > **Agents Intensive Capstone Project** - A multi-agent system for comprehensive code analysis and quality assessment
 
@@ -80,4 +81,5 @@ Apache License 2.0 - see [LICENSE](LICENSE) for details.
 
 ---
 
-⭐ **Star this repo if you find it useful!**
+⭐ **Star this repo if you find it helpful and donate if you can!** 
+
