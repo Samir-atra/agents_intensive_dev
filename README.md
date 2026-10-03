@@ -43,6 +43,7 @@ jupyter notebook notebooks/code_broker.ipynb
 agents_intensive_dev/
 ├── notebooks/
 │   └── code_broker.ipynb          # Main executable notebook
+|   |──  report evaluator.ipynb     # Evaluator notebook
 ├── reports/                        # Generated assessment reports
 ├── src/                            # Source code modules
 ├── Docs/                           # Documentation
