@@ -81,7 +81,21 @@ https://www.kaggle.com/competitions/agents-intensive-capstone-project
 
 Apache License 2.0 - see [LICENSE](LICENSE) for details.
 
+## Citation
+
+If you use this project in your research, please cite it as follows:
+
+```bibtex
+@misc{attrah2026codebrokermultiagentautomated,
+      title={Code Broker: A Multi-Agent System for Automated Code Quality Assessment}, 
+      author={Samer Attrah},
+      year={2026},
+      eprint={2604.23088},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2604.23088}, 
+}
+```
 ---
 
 ⭐ **Star this repo if you find it helpful and donate if you can!** 
-
